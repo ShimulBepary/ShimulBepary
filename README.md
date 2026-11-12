@@ -1,30 +1,57 @@
 # Hi, I'm Shimul Bepary 👋
 
-🎓 Computer Science Student at Ca' Foscari University of Venice, Italy.
+### Computer Science Student | Aspiring Developer
 
-I'm building a strong foundation in computer science, programming, and problem-solving.
+🎓 Studying Computer Science at **Ca' Foscari University of Venice, Italy**.
 
-### Currently Learning
+I'm interested in understanding how technology works, solving problems, and building practical solutions through code.
+
+---
+
+### 🚀 Currently Learning
+
 - Python Programming
 - Computer Science Fundamentals
 - Mathematics for Computing
 - Git & GitHub
 
-### Areas of Interest
+### 🔍 Areas of Interest
+
 - Artificial Intelligence & Machine Learning
 - Data Science
 - Cybersecurity
 - Software Development
 
-### My Goals
-- Develop strong programming and problem-solving skills.
-- Build practical projects and contribute to open source.
-- Participate in hackathons and collaborative projects.
-- Continuously learn and explore emerging technologies.
+### 🎯 What I'm Working Towards
+
+- Strengthening my programming and problem-solving foundations.
+- Building practical projects and documenting my progress.
+- Participating in hackathons and collaborative development.
+- Exploring open-source software and emerging technologies.
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
+</p>
+
+### 📊 GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShimulBepary&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShimulBepary&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
 
 ### Let's Connect
 - GitHub: [@ShimulBepary](https://github.com/ShimulBepary)
 - LinkedIn:[@ShimulBepary](https://www.linkedin.com/in/shimulbepary/)
 ---
 
-*Learning consistently. Building practically. Improving every day.*
+
+<p align="center">
+  <i>Learning with curiosity. Building with purpose. Improving every day.</i>
+</p>
+
+
