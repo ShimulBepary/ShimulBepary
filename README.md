@@ -34,14 +34,6 @@ I'm interested in understanding how technology works, solving problems, and buil
 <p>
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" />
 </p>
-
-### 📊 GitHub Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ShimulBepary&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShimulBepary&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
 ---
 
 ### Let's Connect
